@@ -25,8 +25,8 @@ Example: http://localhost:3001/api/tags - this will test the tags.
 
 ## Technology Used
 
-MySQL: Relational database management system based on SQL – Structured Query Language, used in this applicationt to warehouse and query employee and company data.
-Express.js - Used for application set up of middle ware for end point connection between the front end and backend.
+MySQL: Relational database management system based on SQL – Structured Query Language, used in this application to warehouse retail data.
+Express.js API - Used for designing and building web applications.
 Node.js - Used for package managment and to execute JavaScript code to build command line tool for server-side scripting.
 Sequelize - Object-Relational mapper that maps object syntax onto our database schemas. It is promise based.
 Javascript - Used to base functionality of functions and prompts within the application.
